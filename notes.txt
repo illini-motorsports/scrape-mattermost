@@ -1,0 +1,1 @@
+API https://api.mattermost.com/#tag/posts/operation/GetPostsForChannel
