@@ -1,0 +1,10 @@
+mattermost:
+  url: https://your.url.here
+  auth:
+    access-token: yourmattermostadminaccesstoken
+s3:
+  aws-access-key-id: youraccesskeywiths3putaccess
+  aws-secret-key-id: yoursecretkeywiths3putaccess
+  bucket-name: your-s3-bucket-name
+  region: (country)-(east/west)-(1/2)
+debug: false
